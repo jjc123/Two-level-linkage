@@ -20,3 +20,9 @@
 ### 所需的jar包已经上传到百度云盘：
 
 https://pan.baidu.com/s/1ikjc9F0F9zoiy5zesBKe1g
+
+### 添加所需的数据库
+```
+mysql -uroot -p classandstudents < D:/my.sql
+Enter password: ******
+```
